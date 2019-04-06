@@ -2,7 +2,7 @@
 # Bootuseful :rocket:
 Bootuseful has all the power of Bootstrap's utilities without Bootstrap.
 
-### Installation
+### Installation :computer:
 NPM
 ```bash
 npm i bootuseful
@@ -13,13 +13,13 @@ CDN
 https://unpkg.com/bootuseful/bootuseful.min.css
 ```
 
-### Documentation
+### Documentation :book:
 You only need the documentation Bootstrap in his [Utilities section](https://getbootstrap.com/docs/4.3/utilities).
 
-## Contributing
+## Contributing :heart:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
+## License :page_with_curl:
 [MIT](https://choosealicense.com/licenses/mit/)
