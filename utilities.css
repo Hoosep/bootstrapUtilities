@@ -1,0 +1,292 @@
+
+/* 
+ * LINE HEIGHT
+*/
+.lh-normal {
+  line-height: normal;
+}
+
+.lh-25 {
+  line-height: 0.25;
+}
+
+.lh-50 {
+  line-height: 0.50;
+}
+
+.lh-75 {
+  line-height: 0.75;
+}
+
+.lh-100 {
+  line-height: 1;
+}
+
+.lh-125 {
+  line-height: 1.25;
+}
+
+.lh-150 {
+  line-height: 1.50;
+}
+
+.lh-175 {
+  line-height: 1.75;
+}
+
+.lh-200 {
+  line-height: 2;
+}
+
+/*
+ * FONT SIZE TEXT
+*/
+.fs-25 {
+  font-size: 0.25rem;
+}
+
+.fs-50 {
+  font-size: 0.5rem;
+}
+
+.fs-75 {
+  font-size: 0.75rem;
+}
+
+.fs-100 {
+  font-size: 1rem;
+}
+
+.fs-125 {
+  font-size:1.25rem;
+}
+
+.fs-150 {
+  font-size:1.50rem;
+}
+
+.fs-175 {
+  font-size:1.75rem;
+}
+
+.fs-200{
+  font-size:2rem;
+}
+
+/*
+ * FONT WEIGHT
+*/
+.fw-200{
+  font-weight: 200;
+}
+
+.fw-400 {
+  font-weight: 400;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
+
+.fw-800 {
+  font-weight: 800;
+}
+
+/*
+ * CURSOR
+*/
+.cursor-default {
+  cursor: default;
+}
+
+.cursor-pointer{
+  cursor:pointer;
+}
+
+.cursor-wait {
+  cursor: wait;
+}
+
+.cursor-notallowed {
+  cursor: not-allowed;
+}
+
+/*
+ * POINTER EVENTS
+*/
+
+.pe-none{
+  pointer-events: none;
+}
+
+.pe-auto {
+  pointer-events: auto;
+}
+
+/*
+ * RESIZE
+*/
+
+.resize-none{
+  resize:none;
+}
+
+.resize-both{
+  resize:both;
+}
+
+.resize-vertical{
+  resize:vertical;
+}
+
+.resize-horizontal{
+  resize:horizontal;
+}
+
+/*
+ * OPACITY
+*/
+
+.opacity-0{
+  opacity: 0;
+}
+
+.opacity-25{
+  opacity: 0.25;
+}
+
+.opacity-50{
+  opacity: 0.50;
+}
+
+.opacity-75{
+  opacity: 0.75;
+}
+
+.opacity-100{
+  opacity: 1;
+}
+
+/*
+ * BACKGROUND POSITION
+*/
+.bp-bottom{
+  background-position: bottom; 
+}
+
+.bp-center {
+  background-position: center;
+}
+
+.bp-left {
+  background-position: left;
+}
+
+.bp-left-bottom {
+  background-position: left bottom;
+}
+
+.bp-left-top {
+  background-position: left top;
+}
+
+.bp-right {
+  background-position: right;
+}
+
+.bp-right-bottom {
+  background-position: right bottom;
+}
+
+.bp-right-top {
+  background-position: right top;
+}
+
+.bp-top {
+  background-position: top;
+}
+
+/*
+ * BACKGROUND REPEAT
+*/
+.br-repeat {
+  background-repeat: repeat;
+}
+
+.br-no-repeat{
+  background-repeat: no-repeat;
+}
+
+.br-repeat-x{
+  background-repeat: repeat-x;
+}
+
+.br-repeat-y{
+  background-repeat: repeat-y;
+}
+
+/*
+ * BACKGROUND SIZE
+*/
+
+.bs-auto{
+  background-size: auto;
+}
+
+.bs-cover{
+  background-size: cover;
+}
+
+.bs-contain{
+  background-size: contain;
+}
+
+.bs-25{
+  background-size: 25%;
+}
+
+.bs-50{
+  background-size: 50%;
+}
+
+.bs-75{
+  background-size: 75%;
+}
+
+.bs-100{
+  background-size: 100%;
+}
+
+/*
+ * BACKGROUND ATTACHMENT
+*/
+.ba-fixed{
+  background-attachment: fixed;
+}
+
+.ba-scroll{
+  background-attachment: scroll;
+}
+
+.ba-local{
+  background-image: local
+}
+
+/*
+ * OVERFLOW
+*/
+.overflow-auto{
+  overflow: auto;
+}
+
+.overflow-hidden{
+  overflow: hidden;
+}
+
+.overflow-visible{
+  overflow:visible;
+}
+
+.overflow-scroll{
+  overflow: scroll;
+}

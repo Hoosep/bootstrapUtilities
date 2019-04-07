@@ -1,3 +1,7 @@
+html, body{
+  font-size:16px;
+}
+
 /**
  * BORDERS
  */
@@ -2735,43 +2739,3 @@ button.bg-dark:focus {
     margin-left: auto !important;
   }
 }
-
-/* 
- * LINE HEIGHT
-*/
-.lh-normal {
-  line-height: normal;
-}
-
-.lh-1 {
-  line-height: 0.25;
-}
-
-.lh-2 {
-  line-height: 0.50;
-}
-
-.lh-3 {
-  line-height: 0.75;
-}
-
-.lh-4 {
-  line-height: 1;
-}
-
-.lh-5 {
-  line-height: 1.25;
-}
-
-.lh-6 {
-  line-height: 1.50;
-}
-
-.lh-7 {
-  line-height: 1.75;
-}
-
-.lh-8 {
-  line-height: 2;
-}
-
